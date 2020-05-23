@@ -1,0 +1,22 @@
+{
+  "config":{
+    "hw_platform": ["IDP", "QRD", "MTP", "Dragon", "Surf", "HDK"],
+    "soc_id": ["394", "339"]
+  },
+  "lsm6dsm_0_platform":{
+    "owner": "lsm6dsm",
+    ".orient":{
+      "owner": "lsm6dsm",
+      "x":{ "type": "str", "ver": "0",
+        "data": "-y"
+      },
+      "y":{ "type": "str", "ver": "0",
+        "data": "+x"
+      },
+      "z":{ "type": "str", "ver": "0",
+        "data": "+z"
+      }
+    }
+  }
+}
+

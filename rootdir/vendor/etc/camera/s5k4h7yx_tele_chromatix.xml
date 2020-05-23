@@ -1,0 +1,21 @@
+<ChromatixConfigurationRoot>
+  <CommonChromatixInfo>
+    <ChromatixName special_mode_mask="0">
+      <ISPCommon>s5k4h7yx_tele_common</ISPCommon>
+      <PostProc>s5k4h7yx_tele_postproc</PostProc>
+    </ChromatixName>
+  </CommonChromatixInfo>
+  <ResolutionChromatixInfo>
+    <ChromatixName sensor_resolution_index="0" special_mode_mask="0">
+      <ISPPreview>s5k4h7yx_tele_snapshot</ISPPreview>
+      <ISPSnapshot>s5k4h7yx_tele_snapshot</ISPSnapshot>
+      <ISPVideo>s5k4h7yx_tele_video</ISPVideo>
+      <CPPPreview>s5k4h7yx_tele_cpp_snapshot</CPPPreview>
+      <CPPSnapshot>s5k4h7yx_tele_cpp_snapshot</CPPSnapshot>
+      <CPPLiveshot>s5k4h7yx_tele_cpp_video</CPPLiveshot>
+      <CPPVideo>s5k4h7yx_tele_cpp_video</CPPVideo>
+      <A3Preview>s5k4h7yx_tele_zsl_preview</A3Preview>
+      <A3Video>s5k4h7yx_tele_zsl_video</A3Video>
+    </ChromatixName>
+  </ResolutionChromatixInfo>
+</ChromatixConfigurationRoot>

@@ -1,0 +1,66 @@
+<ChromatixConfigurationRoot>
+  <CommonChromatixInfo>
+    <ChromatixName>
+      <ISPCommon>imx486_common</ISPCommon>
+      <PostProc>imx486_postproc</PostProc>
+    </ChromatixName>
+  </CommonChromatixInfo>
+  <ResolutionChromatixInfo>
+    <ChromatixName sensor_resolution_index="0" special_mode_mask="0">
+      <ISPPreview>imx486_snapshot</ISPPreview>
+      <ISPSnapshot>imx486_snapshot</ISPSnapshot>
+      <ISPVideo>imx486_video</ISPVideo>
+      <CPPPreview>imx486_cpp_snapshot</CPPPreview>
+      <CPPSnapshot>imx486_cpp_snapshot</CPPSnapshot>
+      <CPPLiveshot>imx486_cpp_video</CPPLiveshot>
+      <CPPVideo>imx486_cpp_video</CPPVideo>
+      <A3Preview>imx486_zsl_preview</A3Preview>
+      <A3Video>imx486_zsl_video</A3Video>
+    </ChromatixName>
+    <ChromatixName sensor_resolution_index="1" special_mode_mask="0">
+      <ISPPreview>imx486_snapshot</ISPPreview>
+      <ISPSnapshot>imx486_snapshot</ISPSnapshot>
+      <ISPVideo>imx486_video</ISPVideo>
+      <CPPPreview>imx486_cpp_snapshot</CPPPreview>
+      <CPPSnapshot>imx486_cpp_snapshot</CPPSnapshot>
+      <CPPLiveshot>imx486_cpp_video</CPPLiveshot>
+      <CPPVideo>imx486_cpp_video</CPPVideo>
+      <A3Preview>imx486_zsl_preview</A3Preview>
+      <A3Video>imx486_zsl_video</A3Video>
+    </ChromatixName>
+    <ChromatixName sensor_resolution_index="2" special_mode_mask="0">
+      <ISPPreview>imx486_snapshot</ISPPreview>
+      <ISPSnapshot>imx486_snapshot</ISPSnapshot>
+      <ISPVideo>imx486_video</ISPVideo>
+      <CPPPreview>imx486_cpp_snapshot</CPPPreview>
+      <CPPSnapshot>imx486_cpp_snapshot</CPPSnapshot>
+      <CPPLiveshot>imx486_cpp_video</CPPLiveshot>
+      <CPPVideo>imx486_cpp_video</CPPVideo>
+      <A3Preview>imx486_zsl_preview</A3Preview>
+      <A3Video>imx486_zsl_video</A3Video>
+    </ChromatixName>
+    <ChromatixName sensor_resolution_index="3" special_mode_mask="0">
+      <ISPPreview>imx486_snapshot</ISPPreview>
+      <ISPSnapshot>imx486_snapshot</ISPSnapshot>
+      <ISPVideo>imx486_video</ISPVideo>
+      <CPPPreview>imx486_cpp_snapshot</CPPPreview>
+      <CPPSnapshot>imx486_cpp_snapshot</CPPSnapshot>
+      <CPPLiveshot>imx486_cpp_video</CPPLiveshot>
+      <CPPVideo>imx486_cpp_video</CPPVideo>
+      <A3Preview>imx486_zsl_preview</A3Preview>
+      <A3Video>imx486_zsl_video</A3Video>
+    </ChromatixName>
+    <ChromatixName sensor_resolution_index="4" special_mode_mask="0">
+      <ISPPreview>imx486_snapshot</ISPPreview>
+      <ISPSnapshot>imx486_snapshot</ISPSnapshot>
+      <ISPVideo>imx486_video</ISPVideo>
+      <CPPPreview>imx486_cpp_snapshot</CPPPreview>
+      <CPPSnapshot>imx486_cpp_snapshot</CPPSnapshot>
+      <CPPLiveshot>imx486_cpp_video</CPPLiveshot>
+      <CPPVideo>imx486_cpp_video</CPPVideo>
+      <A3Preview>imx486_zsl_preview</A3Preview>
+      <A3Video>imx486_zsl_video</A3Video>
+    </ChromatixName>
+  </ResolutionChromatixInfo>
+</ChromatixConfigurationRoot>
+
