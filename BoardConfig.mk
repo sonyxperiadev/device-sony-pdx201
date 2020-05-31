@@ -15,7 +15,7 @@
 include device/sony/seine/PlatformConfig.mk
 
 TARGET_BOOTLOADER_BOARD_NAME := unknown
-ifneq (,$(filter %xq-au51,$(TARGET_PRODUCT)))
+ifneq (,$(filter %xqau51,$(TARGET_PRODUCT)))
 TARGET_BOOTLOADER_BOARD_NAME := XQ-AU51
 else ifneq (,$(filter %xqau52,$(TARGET_PRODUCT)))
 TARGET_BOOTLOADER_BOARD_NAME := XQ-AU52
