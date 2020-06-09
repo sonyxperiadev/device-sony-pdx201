@@ -109,7 +109,7 @@
     <FlashName>pmic</FlashName>
     <ChromatixName>s5k4h7yx_tele_chromatix</ChromatixName>
     <ModesSupported>1</ModesSupported>
-    <Position>BACK_AUX</Position>
+    <Position>BACK</Position>
     <MountAngle>90</MountAngle>
     <CSIInfo>
       <CSIDCore>2</CSIDCore>
@@ -127,14 +127,14 @@
     </LensInfo>
   </CameraModuleConfig>
   <CameraModuleConfig>
-    <CameraId>4</CameraId>
+    <CameraId>3</CameraId>
     <SensorName>s5k4h7yx_uwide</SensorName>
     <ActuatorName></ActuatorName>
     <EepromName>s5k4h7yx_uwide</EepromName>
     <FlashName></FlashName>
     <ChromatixName>s5k4h7yx_uwide_chromatix</ChromatixName>
     <ModesSupported>1</ModesSupported>
-    <Position>BACK_AUX</Position>
+    <Position>BACK</Position>
     <MountAngle>90</MountAngle>
     <CSIInfo>
       <CSIDCore>3</CSIDCore>
