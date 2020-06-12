@@ -68,6 +68,7 @@ PRODUCT_COPY_FILES += \
 # Device Init
 PRODUCT_PACKAGES += \
     fstab.pdx201 \
+    ramdisk-fstab.pdx201 \
     init.recovery.pdx201 \
     init.pdx201
 
