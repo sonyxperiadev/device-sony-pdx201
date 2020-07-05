@@ -3057,6 +3057,10 @@
         <ctl name="RX_RX1 Digital Volume" value="76" />
     </path>
 
+    <path name="voice-headset">
+        <path name="voice-headphones" />
+    </path>
+
     <path name="voice-line">
         <path name="voice-headphones" />
     </path>
