@@ -611,7 +611,7 @@
     <path name="low-latency-playback voice-handset">
         <path name="low-latency-playback handset" />
     </path>
-    
+
     <path name="low-latency-playback speaker-safe">
         <path name="low-latency-playback" />
     </path>
@@ -2731,16 +2731,6 @@
         <ctl name="ADC2 MUX" value="INP2" />
     </path>
 
-    <!-- Gain offset target for dmic1 unit calibration -->
-    <path name="dmic3-adj-gain">
-        <ctl name="TX_DEC0 Volume" value="88" />
-    </path>
-
-    <!-- Gain offset target for dmic2 unit calibration -->
-    <path name="dmic1-adj-gain">
-        <ctl name="TX_DEC1 Volume" value="88" />
-    </path>
-
     <path name="dmic1">
         <ctl name="TX_CDC_DMA_TX_3 Channels" value="One" />
         <ctl name="TX_AIF1_CAP Mixer DEC0" value="1" />
@@ -2824,7 +2814,6 @@
 
     <path name="speaker-mic">
         <path name="dmic1" />
-        <path name="dmic3-adj-gain" />
     </path>
 
     <path name="speaker-mic-qrd">
@@ -2898,7 +2887,6 @@
 
     <path name="handset-mic-asr">
         <path name="dmic3" />
-        <path name="dmic3-adj-gain" />
     </path>
 
     <path name="handset-secondary-mic">
@@ -3064,7 +3052,7 @@
     <path name="ringtone-speaker-and-headphones">
         <path name="speaker-and-headphones" />
     </path>
-    
+
     <path name="speaker-safe-and-line">
         <path name="speaker-safe-and-headphones" />
     </path>
@@ -3099,7 +3087,7 @@
         <path name="ringtone-speaker" />
         <path name="usb-headset" />
     </path>
-    
+
     <path name="speaker-safe-and-usb-headphones">
         <path name="speaker-safe" />
         <path name="usb-headphones" />
@@ -3218,8 +3206,6 @@
         <ctl name="TX DMIC MUX0" value="DMIC2" />
         <ctl name="TX_AIF1_CAP Mixer DEC1" value="1" />
         <ctl name="TX DMIC MUX1" value="DMIC0" />
-        <path name="dmic1-adj-gain" />
-        <path name="dmic3-adj-gain" />
     </path>
 
     <path name="speaker-dmic-endfire">
@@ -3400,7 +3386,7 @@
     <path name="incall-music">
        <!-- <ctl name="SLIM RX0 MUX" value="AIF1_PB" />
         <ctl name="SLIM RX1 MUX" value="AIF1_PB" />
-        -->        
+        -->
         <path name="handset" />
     </path>
 
@@ -3442,7 +3428,6 @@
 
     <path name="unprocessed-handset-mic">
         <path name="handset-mic" />
-        <path name="dmic3-adj-gain" />
     </path>
 
     <path name="unprocessed-mic">
