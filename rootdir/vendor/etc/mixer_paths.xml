@@ -2784,11 +2784,6 @@
         <path name="handset-as-speaker" />
     </path>
 
-    <path name="speaker-stereo">
-        <path name="handset-as-speaker" />
-        <path name="speaker" />
-    </path>
-
     <path name="speaker-mono">
         <path name="speaker" />
     </path>
