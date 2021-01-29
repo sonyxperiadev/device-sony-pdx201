@@ -27,7 +27,9 @@ endif
 # Platform
 PRODUCT_PLATFORM := seine
 
+# Kernel cmdline
 BOARD_KERNEL_CMDLINE += androidboot.hardware=pdx201
+BOARD_KERNEL_CMDLINE += androidboot.fstab_suffix=pdx201
 
 # Partition information
 BOARD_FLASH_BLOCK_SIZE := 131072 # (BOARD_KERNEL_PAGESIZE * 64)
