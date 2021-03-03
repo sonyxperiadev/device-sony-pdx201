@@ -30,8 +30,7 @@ PRODUCT_COPY_FILES += \
     $(DEVICE_PATH)/vendor/etc/sensors/config/seine_lsm6dsm_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/seine_lsm6dsm_0.json \
     $(DEVICE_PATH)/vendor/etc/sensors/config/nicobar_somc_default_sensors.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/nicobar_somc_default_sensors.json \
     $(DEVICE_PATH)/vendor/etc/sensors/config/nicobar_ak0991x_0_somc_product.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/nicobar_ak0991x_0_somc_product.json \
-    $(DEVICE_PATH)/vendor/etc/sensors/config/nicobar_lsm6dsm_0_somc_product.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/nicobar_lsm6dsm_0_somc_product.json \
-    $(DEVICE_PATH)/vendor/etc/sensors/config/sns_device_orient_somc_platform.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_device_orient_somc_platform.json
+    $(DEVICE_PATH)/vendor/etc/sensors/config/nicobar_lsm6dsm_0_somc_product.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/nicobar_lsm6dsm_0_somc_product.json
 
 # Camera Configuration
 PRODUCT_COPY_FILES += \
