@@ -17,5 +17,16 @@
       <A3Preview>s5k4h7yx_front_zsl_preview</A3Preview>
       <A3Video>s5k4h7yx_front_zsl_video</A3Video>
     </ChromatixName>
+    <ChromatixName sensor_resolution_index="1" special_mode_mask="0">
+      <ISPPreview>s5k4h7yx_front_snapshot</ISPPreview>
+      <ISPSnapshot>s5k4h7yx_front_snapshot</ISPSnapshot>
+      <ISPVideo>s5k4h7yx_front_video</ISPVideo>
+      <CPPPreview>s5k4h7yx_front_cpp_snapshot</CPPPreview>
+      <CPPSnapshot>s5k4h7yx_front_cpp_snapshot</CPPSnapshot>
+      <CPPLiveshot>s5k4h7yx_front_cpp_video</CPPLiveshot>
+      <CPPVideo>s5k4h7yx_front_cpp_video</CPPVideo>
+      <A3Preview>s5k4h7yx_front_zsl_preview</A3Preview>
+      <A3Video>s5k4h7yx_front_zsl_video</A3Video>
+    </ChromatixName>
   </ResolutionChromatixInfo>
 </ChromatixConfigurationRoot>
