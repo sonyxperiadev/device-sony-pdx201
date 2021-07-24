@@ -71,7 +71,7 @@
     <array name="memory.bandwidths">
         <value>22.7</value>
     </array>
-    <item name="battery.capacity">3460</item>
+    <item name="battery.capacity">3600</item>
     <item name="wifi.controller.idle">0.19</item>
     <item name="wifi.controller.rx">148.18</item>
     <item name="wifi.controller.tx">395.03</item>
