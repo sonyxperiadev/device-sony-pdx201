@@ -57,7 +57,7 @@
     <FlashName>pmic</FlashName>
     <ChromatixName>s5k4h7yx_tele_chromatix</ChromatixName>
     <ModesSupported>1</ModesSupported>
-    <Position>BACK</Position>
+    <Position>BACK_AUX</Position>
     <MountAngle>90</MountAngle>
     <CSIInfo>
       <CSIDCore>2</CSIDCore>
@@ -82,7 +82,7 @@
     <FlashName></FlashName>
     <ChromatixName>s5k4h7yx_uwide_chromatix</ChromatixName>
     <ModesSupported>1</ModesSupported>
-    <Position>BACK</Position>
+    <Position>BACK_AUX</Position>
     <MountAngle>90</MountAngle>
     <CSIInfo>
       <CSIDCore>3</CSIDCore>
